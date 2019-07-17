@@ -1,2 +1,13 @@
-C:\DevelopTools\JavaFramework\learning_video\src\main\java\net\zzqd\learning_video\LeanApplication.java
-C:\DevelopTools\JavaFramework\learning_video\src\main\java\controller\VideoController.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\domain\Video.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\domain\Comment.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\utils\CommonUtils.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\controller\TestController.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\domain\VideoOrder.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\service\impl\VideoServiceImpl.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\controller\VideoController.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\domain\Episode.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\service\VideoService.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\config\WeChatConfig.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\domain\User.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\domain\Chapter.java
+C:\DevelopTools\springboot\learning_video\src\main\java\net\zzqd\elearning\LeanApplication.java
