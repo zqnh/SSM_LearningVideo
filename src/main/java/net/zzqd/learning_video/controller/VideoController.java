@@ -1,4 +1,4 @@
-package net.zzqd.learning_vider.controller;
+package net.zzqd.learning_video.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -11,6 +11,7 @@ public class VideoController {
 	@ResponseBody
 	public String test()
 	{
+		System.out.println("哈哈");
 		return "hello learning";
 	}
 }	
